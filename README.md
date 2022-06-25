@@ -20,6 +20,8 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
 
 # Menu & Results
 
+![Screenshot_2022-06-25-19-54-18-37_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/107848026/175774553-0155b774-e008-4368-90f9-0d6f90c20ecb.jpg)
+
 [![IMG-20220625-173434.jpg](https://i.postimg.cc/wxQJ3bvR/IMG-20220625-173434.jpg)](https://postimg.cc/t777MkF9)
 
 
