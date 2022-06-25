@@ -18,11 +18,23 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
      $ git pull
      $ python run.py
 
+# Menu & Results
+
+[![IMG-20220625-173434.jpg](https://i.postimg.cc/wxQJ3bvR/IMG-20220625-173434.jpg)](https://postimg.cc/t777MkF9)
+
+
 # Price / Harga
 
-7MBF saat ini sedang ada promo loh, dengan harga yang bersahabat dengan kantong kita
+IG7F saat ini sedang ada promo loh, dengan harga yang bersahabat dengan kantong kita
 
            1 Minggu : Rp 25.000
            1 Bulan  : Rp 50.000
            2 Bulan  : Rp 100.000
            3 Bulan  : Rp 150.000
+
+
+
+<h3 align="left">WhatsApp</h3>
+<p align="left">
+<a href="https://wa.me/+6283164279551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="xx72.xvv2050" height="30" width="40" /></a>
+</P>
