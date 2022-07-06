@@ -29,10 +29,10 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
 
 IG7F saat ini sedang ada promo loh, dengan harga yang bersahabat dengan kantong kita
 
-           1 Minggu : Rp 25.000
-           1 Bulan  : Rp 50.000
-           2 Bulan  : Rp 100.000
-           3 Bulan  : Rp 150.000
+          $ 1 Bulan  : Rp 100.000
+          $ 2 Bulan  : Rp 150.000
+          $ 3 Bulan  : Rp 200.000
+          $ Permanen+full source 450.000
 
 
 
